@@ -7,9 +7,9 @@
   vars:
     api_version: 17.1.2
     avi_credentials:
-      controller: 10.10.24.202
+      controller: 10.90.111.9
       username: admin
-      password: password$%
+      password: avi123$%
       api_version: 17.1.2
   roles:
     - role: avinetworks.avisdk
