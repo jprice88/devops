@@ -5,7 +5,7 @@ avi_config:
       lb_algorithm: LB_ALGORITHM_ROUND_ROBIN
       servers:
         - ip:
-             addr: 10.90.64.12
+             addr: 10.90.111.9
              type: 'V4'
 
   virtualservice:
