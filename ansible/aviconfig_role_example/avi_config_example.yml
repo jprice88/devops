@@ -6,11 +6,6 @@
   connection: local
   vars:
     api_version: 17.1.2
-    avi_credentials:
-      controller: 10.90.111.7
-      username: admin
-      password: avi123$%
-      api_version: 17.1.2
   roles:
     - role: avinetworks.avisdk
   tasks:
