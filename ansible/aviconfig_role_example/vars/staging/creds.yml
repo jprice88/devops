@@ -1,7 +1,7 @@
 # These settings are for demo purpose only. Pl. modify it as per target
 # environment
 
-avi_controller: 10.90.111.6
+avi_controller: 10.90.111.7
 avi_username: admin
 avi_password: avi123$%
 
