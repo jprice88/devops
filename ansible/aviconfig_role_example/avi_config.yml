@@ -17,7 +17,7 @@ avi_config:
       #  state: absent
       vip:
         - ip_address:
-            addr: 10.90.64.244
+            addr: 10.90.113.206
             type: 'V4'
           vip_id: '1'
 
