@@ -6,7 +6,7 @@ avi_username: admin
 avi_password: avi123$%
 
 avi_credentials:
-  avi_controller: 10.90.111.6
+  avi_controller: 10.90.111.7
   avi_username: admin
   avi_password: avi123$%
   api_version: 17.2.3
